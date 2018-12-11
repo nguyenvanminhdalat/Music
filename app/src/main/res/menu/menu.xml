@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/action_offline"
+        android:title="Của tôi"
+        android:icon="@drawable/offline" />
+    <item android:id="@+id/action_online"
+        android:title="Thị trường"
+        android:icon="@drawable/online" />
+    <item android:id="@+id/action_chart"
+        android:title="Xu hướng"
+        android:icon="@drawable/chart" />
+</menu>
